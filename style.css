@@ -3,3 +3,8 @@
 * {
     font-family: 'Kumbh Sans', sans-serif;
 }
+
+body {
+    background-image: url('images/bg-pattern-bottom.svg');
+    /* background-blend-mode: multiply; */
+}
